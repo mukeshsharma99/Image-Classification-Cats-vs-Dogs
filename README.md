@@ -1,9 +1,23 @@
-# Image-Classification
+# 🐾 Image Classification — Cats vs Dogs
 
+This project focuses on binary image classification to differentiate between **cats** and **dogs** using supervised learning.
 
-Image classification refers to grouping the images based on similar features. It is a supervised
-learning approach in which you are given a labeled dataset. In this particular problem, you need
-to perform a binary classification of the given images. The binary classes identified are cats and
-dogs. After extracting the suitable features from the images, design a binary classifier that
-performs classification on the given data set. Also, evaluate the given classifier using all the  
-evaluation metrics.
+## 📌 Overview
+- **Goal:** Classify images as either a cat or a dog.
+- **Dataset:** Labeled images of cats and dogs.
+- **Approach:** 
+  - Extract relevant features from images.
+  - Build and train a binary classifier.
+  - Evaluate performance using standard metrics.
+
+## ✅ Tasks
+- **Feature Extraction:** Capture key visual features for accurate classification.
+- **Model Training:** Develop a reliable binary classifier.
+- **Evaluation:** Measure accuracy, precision, recall, F1-score, and analyze the confusion matrix.
+
+## 🚀 Result
+A well-trained model that can accurately predict whether an image shows a **cat** or a **dog**, with clear evaluation reports.
+
+---
+
+Feel free to adapt this as needed for your project!
