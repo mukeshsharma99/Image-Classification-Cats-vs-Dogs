@@ -4,7 +4,7 @@ This project focuses on binary image classification to differentiate between **c
 
 ## 📌 Overview
 - **Goal:** Classify images as either a cat or a dog.
-- **Dataset:** Labeled images of cats and dogs.
+- **Dataset:** Labeled images of cats and dogs. 
 - **Approach:** 
   - Extract relevant features from images.
   - Build and train a binary classifier.
