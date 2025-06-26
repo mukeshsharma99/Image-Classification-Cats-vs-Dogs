@@ -1,6 +1,6 @@
 # 🐾 Image Classification — Cats vs Dogs
 
-This project focuses on binary image classification to differentiate between **cats** and **dogs** using supervised learning.  
+This project focuses on binary image classification to differentiate between **cats** and **dogs** using supervised learning.   
 
 ## 📌 Overview
 - **Goal:** Classify images as either a cat or a dog.
